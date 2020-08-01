@@ -1,0 +1,10 @@
+https://github.com/martinrath77/PSKReporter-Stats.git
+
+https://pskreporter.info/cgi-bin/pskdata.pl?adif=1&days=7&callsign=9v1rm #ADIF 7 days
+
+https://pskreporter.info/cgi-bin/pskdata.pl?adif=1&days=1&callsign=9v1rm #ADIF 1 day
+
+
+
+https://pskreporter.info/cgi-bin/pskdata.pl?adif=0&days=1&callsign=9v1rm #CSV 7 days
+
